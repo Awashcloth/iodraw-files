@@ -55,10 +55,10 @@
         <mxCell id="FNDDf0-gnBsCdd0-d-s2-18" value="a" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FNDDf0-gnBsCdd0-d-s2-19" value="form" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FNDDf0-gnBsCdd0-d-s2-19" value="span" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FNDDf0-gnBsCdd0-d-s2-20" value="form" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="FNDDf0-gnBsCdd0-d-s2-20" value="input" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
